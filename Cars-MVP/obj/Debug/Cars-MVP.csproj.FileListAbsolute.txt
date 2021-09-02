@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\bin\Debug\Cars-MVP.exe.config
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\bin\Debug\Cars-MVP.exe
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\bin\Debug\Cars-MVP.pdb
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\obj\Debug\Cars-MVP.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\obj\Debug\Cars_MVP.Properties.Resources.resources
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\obj\Debug\Cars_MVP.View.MainView.resources
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\obj\Debug\Cars-MVP.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\obj\Debug\Cars-MVP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\obj\Debug\Cars-MVP.csproj.CopyComplete
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\obj\Debug\Cars-MVP.exe
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\obj\Debug\Cars-MVP.pdb
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\Cars-MVP\Cars-MVP\bin\Debug\EntityFramework.SqlServer.xml
